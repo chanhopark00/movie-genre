@@ -19,23 +19,28 @@ There were in total ___ number of genres existing in our database.
 There were at least _____ number of movies in each genre.
 
 1. Data scraping
-  - Scraping imdb.com using Beautifulsoup
+
+> Scraping imdb.com using Beautifulsoup
 
 2. Data preprocessing / cleaning
-  - Text preprocessing (Removal of stopwords, lemmatization)
-  - Label image to genre
+
+> Text preprocessing (Removal of stopwords, lemmatization)
+> Label image to genre
   
 3. Text Analysis using LDA model (guided LDA model / LDA)
-  - LDA analysis without seeding
-  - Seeds of model / How did we chose them? 
+
+> LDA analysis without seeding
+> Seeds of model / How did we chose them? 
   
 4. Poster Analysis using CNN (Convolutional Neural Network)
-  - 
-  - 
+  
+>   
+>   
   
 5. Combining two models
-  - 
-  - 
+
+>  
+>  
   
 ## Result of Model
 
