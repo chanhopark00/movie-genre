@@ -1,6 +1,5 @@
-# movie-genre
+# Movie-genre classifier
 Multi-modal analysis of plot and poster of movie to classify genre
-
 
 ## Flow of Project
 
