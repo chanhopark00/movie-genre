@@ -25,6 +25,7 @@ There were at least _____ number of movies in each genre.
 2. Data preprocessing / cleaning
 
 > Text preprocessing (Removal of stopwords, lemmatization)
+
 > Label image to genre
   
 3. Text Analysis using LDA model (guided LDA model / LDA)
