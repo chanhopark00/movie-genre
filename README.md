@@ -56,4 +56,5 @@ By looking at our confusion matrix, we notice that the model _____.
 
 https://datascience.stackexchange.com/questions/1123/combine-multiple-classifiers-to-build-a-multi-modal-classifier
 https://medium.com/appliedalgoritmo/an-intro-to-ensemble-learning-in-machine-learning-5ed8792af72d
+https://medium.com/diogo-menezes-borges/ensemble-learning-when-everybody-takes-a-guess-i-guess-ec35f6cb4600
 https://medium.freecodecamp.org/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164
