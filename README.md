@@ -31,6 +31,7 @@ There were at least _____ number of movies in each genre.
 3. Text Analysis using LDA model (guided LDA model / LDA)
 
 > LDA analysis without seeding
+
 > Seeds of model / How did we chose them? 
   
 4. Poster Analysis using CNN (Convolutional Neural Network)
@@ -40,7 +41,8 @@ There were at least _____ number of movies in each genre.
   
 5. Combining two models
 
->  
+>  Ensembled learning ? 
+
 >  
   
 ## Result of Model
@@ -52,5 +54,6 @@ When feeding our test data into our model we have attained ____ % accuracy.
 By looking at our confusion matrix, we notice that the model _____.
 
 
-
+https://datascience.stackexchange.com/questions/1123/combine-multiple-classifiers-to-build-a-multi-modal-classifier
+https://medium.com/appliedalgoritmo/an-intro-to-ensemble-learning-in-machine-learning-5ed8792af72d
 https://medium.freecodecamp.org/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164
